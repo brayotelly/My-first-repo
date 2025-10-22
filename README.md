@@ -1,7 +1,7 @@
 <!-- Profile README for brayotelly -->
 
-<div align="below">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:1e90ff,100:32cd32&height=180&section=header&text=Hi!%20I'm%20Brian%20Thuranira%20(brayotelly)&fontSize=40&fontAlignY=40&desc=Software%20Developer%20%7C%20Pharmacy%20Student%20%7C%20AI%20in%20Medicine%20Enthusiast&descAlignY=60&descAlign=80" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:1e90ff,100:32cd32&height=180&section=header&text=Hi!%20I'm%20Brian%20Thuranira%20&fontSize=40&fontAlignY=40&desc=Software%20Developer%20%7C%20Pharmacy%20Student%20%7C%20AI%20in%20Medicine%20Enthusiast&descAlignY=60&descAlign=80" />
 </div>
 
 ---
