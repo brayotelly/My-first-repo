@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-- 🧑‍💻 **Software Developer** | **Pharmacy Student**
+- 🧑‍💻 **Software Developer** | **Student**
 - 🐍 **Python Enthusiast**
 - 🤖 **Featured Project:** [MedBot](#) *(AI-powered healthcare assistant)*
 - 🎯 **Passionate about integrating AI technology into medicine.*
